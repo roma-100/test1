@@ -1,8 +1,4 @@
 Hello World!
-<<<<<<< HEAD
-xxxyyysssaaa
-sss
-=======
 xxxyyy1111
-11
->>>>>>> da421523f6c4c89d187a88aa10706b4e2ba48994
+11222
+
